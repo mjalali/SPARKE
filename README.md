@@ -25,3 +25,16 @@ SPARKE Diversity Guidance:
 }
 ```
 
+RKE Score:
+```bibtex
+@inproceedings{jalali2023rke,
+    author = {Jalali, Mohammad and Li, Cheuk Ting and Farnia, Farzan},
+    booktitle = {Advances in Neural Information Processing Systems},
+    pages = {9931--9943},
+    title = {An Information-Theoretic Evaluation of Generative Models in Learning Multi-modal Distributions},
+    url = {https://openreview.net/forum?id=PdZhf6PiAb},
+    volume = {36},
+    year = {2023}
+}
+```
+
