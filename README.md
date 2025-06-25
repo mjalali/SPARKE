@@ -1,7 +1,13 @@
 # SPARKE Diversity Guidance for Diffusion Models homepage
-## Papar: SPARKE: Scalable Prompt-Aware Diversity Guidance in Diffusion Models via RKE Score
+
 The Project page for paper: [SPARKE: Scalable Prompt-Aware Diversity Guidance in Diffusion Models via RKE Score
 ](https://arxiv.org/abs/2506.10173).
+
+## Abstract
+Diffusion models have demonstrated exceptional performance in high-fidelity image synthesis and prompt-based generation. However, achieving sufficient diversity—particularly within semantically similar prompts—remains a critical challenge. Prior methods use diversity metrics as guidance signals, but often neglect prompt awareness or computational scalability.
+
+In this work, we propose **SPARKE**: _Scalable Prompt-Aware Diversity Guidance in Diffusion Models via RKE Score_. SPARKE leverages **conditional entropy** to guide the sampling process with respect to prompt-localized diversity. By employing **Conditional Latent RKE Score Guidance**, we reduce the computational complexity from $\mathcal{O}(n^3)$ to $\mathcal{O}(n)$, enabling efficient large-scale generation. We integrate SPARKE into several popular diffusion pipelines and demonstrate improved diversity without additional inference overhead.
+
 
 See the project Github Code: [https://github.com/mjalali/sparke-diffusers](https://github.com/mjalali/sparke-diffusers).
 
