@@ -3,6 +3,9 @@
 The Project page for paper: [SPARKE: Scalable Prompt-Aware Diversity Guidance in Diffusion Models via RKE Score
 ](https://arxiv.org/abs/2506.10173).
 
+## News
+Sep 19. SPARKE Got accepted at NeurIPS 2025 🎉
+
 ## Abstract
 Diffusion models have demonstrated exceptional performance in high-fidelity image synthesis and prompt-based generation. However, achieving sufficient diversity—particularly within semantically similar prompts—remains a critical challenge. Prior methods use diversity metrics as guidance signals, but often neglect prompt awareness or computational scalability.
 
